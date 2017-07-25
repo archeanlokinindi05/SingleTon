@@ -1,8 +1,6 @@
 /**
  *
- *
  * Run Time parameters which initiates all the default values
- * Written by  Raghav Appala
  *
  */
 
